@@ -1,1 +1,1 @@
-![Rick](https://i.pinimg.com/originals/07/45/78/074578d14ea57d656ba2f0a2bc8f7c1a.jpg)
+![./.](https://user-images.githubusercontent.com/39489535/106922430-05f23e00-6748-11eb-90b5-5b1200254e6c.png)
