@@ -15,7 +15,33 @@ I am a full stack developer currently focused on Frontend Engineering, My expert
 	<code><img width="31" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 </div>
 
---------
+
+ ## 📌 Featured Projects ###
+  1. **[WOFEX](https://wofex.com/)** 
+   **Description**: As a standalone developer during my internship at WOFEX, I took on the challenge of building their fully functional website, as none existed at the time. The website I developed included a feature for sending email inquiries seamlessly using the Google API.
+   **Technologies**: React, Nextjs, Material UI, Google APIs
+   
+   2.  **[PACEOS](https://paceos.org/)**
+   **Description**: PACEOS didn’t have a website back then, and with a tight deadline, I was tasked with developing their website using WordPress. I successfully delivered a functional and professional site within the required timeframe.
+   **Technologies**: Wordpress, Elementor, WPForms.
+   
+   3.  **[Artphorce](https://artphorce.com/)** 
+   **Description**: Worked as a Junior Software Engineer in Artphorce my main contributions revolved around building new features and fixing issues in their main platform
+   **Technologies**:  React.js, REST API, MongoDB, Agile Methodologies, Javascript, AntDesign, Styled-components.
+   
+   4.  **[Shakey's Philippines Ordering Site](https://www.shakeyspizza.ph/)** 
+   **Description**: As a Web Developer at SPAVI, I was responsible for developing new features and maintaining their ordering web platform, working closely with the API team to ensure seamless integration and functionality.
+   **Technologies**: NextJS, React JS, REST API, Agile Methodologies, Javascript, Typescript, Micro Services, Amazon Web Services.
+   
+      5.  **[PeriPeri Ordering Site](https://www.periperichicken.ph/)** 
+   **Description**: As a Freelancer on this project, I was tasked with independently scaffolding the entire application. I took the lead in developing the majority of its core modules, ensuring a strong foundation for the project.
+   **Technologies**: NextJS, React JS, REST API, MongoDB, Agile Methodologies, Javascript, Typescript, Micro Services, Amazon Web Services.
+      6.  **[Bukobus Passenger App](https://buko-passenger-web.vercel.app/)** 
+   **Description**: As a Freelancer on this project, I was tasked with independently scaffolding the entire application. I took the lead in developing the majority of its core modules, ensuring a strong foundation for the project.
+   **Technologies**: NextJS, React JS, REST API, MongoDB, Agile Methodologies, Javascript, Typescript, Micro Services, Amazon Web Services.
+
+
+---------
 **You can reach me out via:**
 Telegram - @j4mescarlo
 Email - jamescarl.caipang@gmail.com
