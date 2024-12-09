@@ -28,15 +28,16 @@ I am a full stack developer currently focused on Frontend Engineering, My expert
    3.  **[Artphorce](https://artphorce.com/)** 
    **Description**: Worked as a Junior Software Engineer in Artphorce my main contributions revolved around building new features and fixing issues in their main platform
    **Technologies**:  React.js, REST API, MongoDB, Agile Methodologies, Javascript, AntDesign, Styled-components.
-   
+
    4.  **[Shakey's Philippines Ordering Site](https://www.shakeyspizza.ph/)** 
    **Description**: As a Web Developer at SPAVI, I was responsible for developing new features and maintaining their ordering web platform, working closely with the API team to ensure seamless integration and functionality.
    **Technologies**: NextJS, React JS, REST API, Agile Methodologies, Javascript, Typescript, Micro Services, Amazon Web Services.
-   
-      5.  **[PeriPeri Ordering Site](https://www.periperichicken.ph/)** 
+
+   5.  **[PeriPeri Ordering Site](https://www.periperichicken.ph/)** 
    **Description**: As a Freelancer on this project, I was tasked with independently scaffolding the entire application. I took the lead in developing the majority of its core modules, ensuring a strong foundation for the project.
    **Technologies**: NextJS, React JS, REST API, MongoDB, Agile Methodologies, Javascript, Typescript, Micro Services, Amazon Web Services.
-      6.  **[Bukobus Passenger App](https://buko-passenger-web.vercel.app/)** 
+
+    6.  **[Bukobus Passenger App](https://buko-passenger-web.vercel.app/)** 
    **Description**: As a Freelancer on this project, I was tasked with independently scaffolding the entire application. I took the lead in developing the majority of its core modules, ensuring a strong foundation for the project.
    **Technologies**: NextJS, React JS, REST API, MongoDB, Agile Methodologies, Javascript, Typescript, Micro Services, Amazon Web Services.
 
