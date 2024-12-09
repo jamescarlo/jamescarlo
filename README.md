@@ -37,7 +37,7 @@ I am a full stack developer currently focused on Frontend Engineering, My expert
    **Description**: As a Freelancer on this project, I was tasked with independently scaffolding the entire application. I took the lead in developing the majority of its core modules, ensuring a strong foundation for the project.
    **Technologies**: NextJS, React JS, REST API, MongoDB, Agile Methodologies, Javascript, Typescript, Micro Services, Amazon Web Services.
 
-    6.  **[Bukobus Passenger App](https://buko-passenger-web.vercel.app/)** 
+   6.  **[Bukobus Passenger App](https://buko-passenger-web.vercel.app/)** 
    **Description**: As a Freelancer on this project, I was tasked with independently scaffolding the entire application. I took the lead in developing the majority of its core modules, ensuring a strong foundation for the project.
    **Technologies**: NextJS, React JS, REST API, MongoDB, Agile Methodologies, Javascript, Typescript, Micro Services, Amazon Web Services.
 
