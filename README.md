@@ -18,8 +18,8 @@ I am a full stack developer currently focused on Frontend Engineering, My expert
 
  ## 📌 Featured Projects ###
   1. **[WOFEX](https://wofex.com/)**
-     	**Description**: As a standalone developer during my internship at WOFEX, I took on the challenge of building their fully functional website, as none existed at the time. The website I developed included a feature for sending email inquiries seamlessly using the Google API.
-   	**Technologies**: React, Nextjs, Material UI, Google APIs
+**Description**: As a standalone developer during my internship at WOFEX, I took on the challenge of building their fully functional website, as none existed at the time. The website I developed included a feature for sending email inquiries seamlessly using the Google API.
+**Technologies**: React, Nextjs, Material UI, Google APIs
    
    3.  **[PACEOS](https://paceos.org/)**
    **Description**: PACEOS didn’t have a website back then, and with a tight deadline, I was tasked with developing their website using WordPress. I successfully delivered a functional and professional site within the required timeframe.
