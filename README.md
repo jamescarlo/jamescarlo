@@ -18,28 +18,28 @@ I am a full stack developer currently focused on Frontend Engineering, My expert
 
  ## 📌 Featured Projects ###
   1. **[WOFEX](https://wofex.com/)**
-     - As a standalone developer during my internship at WOFEX, I took on the challenge of building their fully functional website, as none existed at the time. The website I developed included a feature for sending email inquiries seamlessly using the Google API.
-**Technologies**: React, Nextjs, Material UI, Google APIs
+     	As a standalone developer during my internship at WOFEX, I took on the challenge of building their fully functional website, as none existed at the time. The website I developed included a feature for sending email inquiries seamlessly using the Google API.
+	**Technologies**: React, Nextjs, Material UI, Google APIs
 
    3.  **[PACEOS](https://paceos.org/)**
-- PACEOS didn’t have a website back then, and with a tight deadline, I was tasked with developing their website using WordPress. I successfully delivered a functional and professional site within the required timeframe.
-   **Technologies**: Wordpress, Elementor, WPForms.
+	PACEOS didn’t have a website back then, and with a tight deadline, I was tasked with developing their website using WordPress. I successfully delivered a functional and professional site within the required timeframe.
+   	**Technologies**: Wordpress, Elementor, WPForms.
    
    4.  **[Artphorce](https://artphorce.com/)** 
-- Worked as a Junior Software Engineer in Artphorce my main contributions revolved around building new features and fixing issues in their main platform
+	 Worked as a Junior Software Engineer in Artphorce my main contributions revolved around building new features and fixing issues in their main platform
    **Technologies**:  React.js, REST API, MongoDB, Agile Methodologies, Javascript, AntDesign, Styled-components.
 
    5.  **[Shakey's Philippines Ordering Site](https://www.shakeyspizza.ph/)** 
-	- As a Web Developer at SPAVI, I was responsible for developing new features and maintaining their ordering web platform, working closely with the API team to ensure seamless integration and functionality.
-   **Technologies**: NextJS, React JS, REST API, Agile Methodologies, Javascript, Typescript, Micro Services, Amazon Web Services.
+	As a Web Developer at SPAVI, I was responsible for developing new features and maintaining their ordering web platform, working closely with the API team to ensure seamless integration and functionality.
+   	**Technologies**: NextJS, React JS, REST API, Agile Methodologies, Javascript, Typescript, Micro Services, Amazon Web Services.
 
    6.  **[PeriPeri Ordering Site](https://www.periperichicken.ph/)** 
-	- As a Freelancer on this project, I was tasked with independently scaffolding the entire application. I took the lead in developing the majority of its core modules, ensuring a strong foundation for the project.
-   **Technologies**: NextJS, React JS, REST API, MongoDB, Agile Methodologies, Javascript, Typescript, Micro Services, Amazon Web Services.
+	As a Freelancer on this project, I was tasked with independently scaffolding the entire application. I took the lead in developing the majority of its core modules, ensuring a strong foundation for the project.
+   	**Technologies**: NextJS, React JS, REST API, MongoDB, Agile Methodologies, Javascript, Typescript, Micro Services, Amazon Web Services.
 
    7.  **[Bukobus Passenger App](https://buko-passenger-web.vercel.app/)** 
-	- As a Freelancer on this project, I was tasked with independently scaffolding the entire application. I took the lead in developing the majority of its core modules, ensuring a strong foundation for the project.
-   **Technologies**: NextJS, React JS, REST API, MongoDB, Agile Methodologies, Javascript, Typescript, Micro Services, Amazon Web Services.
+	As a Freelancer on this project, I was tasked with independently scaffolding the entire application. I took the lead in developing the majority of its core modules, ensuring a strong foundation for the project.
+	 NextJS, React JS, REST API, MongoDB, Agile Methodologies, Javascript, Typescript, Micro Services, Amazon Web Services.
 
 
 ---------
